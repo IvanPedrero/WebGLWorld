@@ -2,9 +2,12 @@
 
 Illusion of 3 enviroments using WebGL (with Three JS) and PhoneGap.
 
+![SS](screenshots/ss1.jpg)
+
 ## Getting Started
 
 You'll need an Adobe account in order to build the application for mobile, however you can just run it in your web browser (Firefox and Chrome are recommended for this).
+
 The application will be an illusion of an enviroment using an inverted skybox and an orbital camera, the libraries are already in the project js folder.
 
 ### Prerequisites
@@ -14,6 +17,15 @@ You'll need an Adobe account, and a way to run a server from tour machine as thr
 ```
 https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally
 ```
+
+We are using skyboxes in a 6-texture format, so this website is perfect for adding more enviroments if you want to:
+
+```
+http://www.custommapmakers.org/skyboxes.php
+```
+
+![SS](screenshots/ss2.jpg)
+
 
 ### Installing
 
