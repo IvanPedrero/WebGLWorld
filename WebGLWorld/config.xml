@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.superawesomegames.webglworld"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+  <name>WebGL World</name>
+
+  <description>
+      An example of WebGL skybox rendering.
+  </description>
+
+  <preference name="orientation" value="landscape"/>
+  <preference name="fullscreen" value="true" />
+  <preference name="exit-on-suspend" value="false" />
+
+</widget>

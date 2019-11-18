@@ -2,6 +2,9 @@ let scene, camera, renderer;
 
 function createWorld(option) {  
 
+  //Set a landscape orientation.
+  //screen.orientation.lock('landscape');
+
   //Check if the scene is already created.
   if (scene != null) {
     //The memory will not be free and will start to stash... So remove the elements created.
@@ -28,6 +31,8 @@ function createWorld(option) {
   //Create a new orbit controller.
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.addEventListener('change', renderer);
+  //Disable pan to avoid breaking out the cube.
+  controls.enablePan = false;
   //Set min and max distance to zoom without breaking the illusion.
   controls.minDistance = 200;
   controls.maxDistance = 3500;
