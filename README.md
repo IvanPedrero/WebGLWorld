@@ -14,15 +14,11 @@ The application will be an illusion of an enviroment using an inverted skybox an
 
 You'll need an Adobe account, and a way to run a server from tour machine as three.js run only in a server. Three JS already wrote an article about this here:
 
-```
-https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally
-```
+(https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally)
 
 We are using skyboxes in a 6-texture format, so this website is perfect for adding more enviroments if you want to:
 
-```
-http://www.custommapmakers.org/skyboxes.php
-```
+(http://www.custommapmakers.org/skyboxes.php)
 
 ![SS](screenshots/ss2.JPG)
 
@@ -31,9 +27,7 @@ http://www.custommapmakers.org/skyboxes.php
 
 After the server is running, just go to the www folder in your localhost from your browser and the application will start runningthe index.html file.
 
-```
-http://localhost:8000/OpenWorld/www
-```
+(http://localhost:8000/OpenWorld/www)
 
 It is recommended that you use Firefox or Chrome in order to run the application, but Edge should work fine too.
 
