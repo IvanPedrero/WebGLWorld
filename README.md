@@ -2,7 +2,7 @@
 
 Illusion of 3 enviroments using WebGL (with Three JS) and PhoneGap.
 
-![SS](screenshots/ss1.jpg)
+![SS](screenshots/ss1.JPG)
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ We are using skyboxes in a 6-texture format, so this website is perfect for addi
 http://www.custommapmakers.org/skyboxes.php
 ```
 
-![SS](screenshots/ss2.jpg)
+![SS](screenshots/ss2.JPG)
 
 
 ### Installing
