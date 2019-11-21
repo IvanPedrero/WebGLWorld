@@ -152,7 +152,7 @@ Upload your zip.
 
 Build for Android or iOS.
 
-Install the apk or the ipa via xCode.
+Install the apk or the ipa via Xcode.
 
 
 ## Built With
